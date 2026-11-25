@@ -23,3 +23,7 @@ Vizualizasiyalar Power BI modelindəki `Table Data` cədvəlinə əsaslanır. G�
 1. [Finance Expense Dashboard.pbix](Finance%20Expense%20Dashboard.pbix) faylını repozitoriyadan endirin.
 2. Faylı **Microsoft Power BI Desktop** proqramında açın və **Dashboard** səhifəsinə keçin.
 3. Bütün ayların trendini görmək üçün **Month** filtrində saxlanmış `Apr` seçimini təmizləyin. Konkret dövr və region üzrə nəticələrə baxmaq üçün uyğun filtrləri seçin.
+
+<img width="1358" height="762" alt="image" src="https://github.com/user-attachments/assets/f820ad7b-17d9-4087-9052-ba44a47bfe5c" />
+
+
